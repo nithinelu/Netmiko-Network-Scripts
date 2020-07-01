@@ -26,3 +26,4 @@ device_data = connection.MULTI_SSH_TELNET_PROXY(
     config_file,
 )
 device_data.connect()
+print(newdata)
